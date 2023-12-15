@@ -8,3 +8,6 @@ Included: DataTypes: Height, Weight, Head Circumference.
 
 # Reason for creating?
 I needed to use the PChart package to generate pediatric growth charts but the datasets are not precompiled. WHO publishes them in excel format. These compiles the Age, L, M, S values easily in male/female and age groups. 
+
+# Data Source
+https://www.who.int/tools/child-growth-standards/standards
